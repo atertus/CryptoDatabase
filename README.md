@@ -31,4 +31,4 @@ Crypto Database is an enhanced web application that allows users to view, search
 - A catch-all route handles invalid URLs and displays a "404 - Page Not Found" message with a link to navigate back to the home page.
 
 
-Alexander Tertus z2360485"# CryptoDatabase" 
+
